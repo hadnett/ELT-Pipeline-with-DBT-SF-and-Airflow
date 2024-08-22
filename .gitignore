@@ -1,1 +1,7 @@
 .idea/
+logs/
+target/
+dbt_packages/
+logs/
+.gitkeep
+package-lock.yml
